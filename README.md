@@ -7,4 +7,4 @@ Instruction:-
 3. Install Tabula and pyPDF2 before running script.
 4. Run the whole script and after completion you can get CSV of extracted data in "Output_folder".
 5. In case of feeding multiple PDFs if any PDF got failed to extrcted you can get logs of those PDFs in "LOG.csv" (you can get this logs file in "Output_folder").
-6. Please change the backslash or forward slash in Main function CEL according to system you are using. (i.e. In mac path is like '/Some_folder/sub_folder' and in windows and ubuntu it like 'C:\Some_folder\sub_folder') Otherwise you got error.
+6. Please change the backslash or forward slash in Main function CELL according to system you are using. (i.e. In mac path is like '/Some_folder/sub_folder' and in windows and ubuntu it like 'C:\Some_folder\sub_folder') Otherwise you got error.
